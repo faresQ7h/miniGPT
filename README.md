@@ -45,7 +45,8 @@ Handles everything automatically:
 ### ✅ Prerequisites
 
 Check Python:
-
+```bash```
+# ▶️ Check Python version
 python3 --version
 
 If not installed (Ubuntu/Debian):
