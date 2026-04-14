@@ -45,15 +45,15 @@ Handles everything automatically:
 ### ✅ Prerequisites
 
 Check Python:
-```bash```
+```
 # ▶️ Check Python version
 python3 --version
-
+```
 If not installed (Ubuntu/Debian):
-
+```
 sudo apt update
 sudo apt install python3 python3-pip -y
-
+```
 ---
 
 ## 📥 Installation
