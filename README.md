@@ -54,10 +54,10 @@ sudo apt install python3 python3-pip -y
 ---
 
 ## 📥 Installation
-
+```
 git clone https://github.com/faresQ7h/miniGPT.git
 cd miniGPT
-
+```
 ---
 
 ## ▶️ How to Run
