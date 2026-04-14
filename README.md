@@ -25,8 +25,7 @@ The project uses:
 
 ## How to run
 
-Clone the repository:
+Make sure you have **Python 3 installed**:
 
 ```bash
-git clone https://github.com/faresQ7h/miniGPT.git
-cd miniGPT
+python3 --version
