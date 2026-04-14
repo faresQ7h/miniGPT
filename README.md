@@ -1,42 +1,32 @@
 # Local AI Chatbot (miniGPT)
 
-A simple local AI chatbot built using LLaMA3 via Ollama.  
-The project runs completely on your machine without any API key.
+This is a simple local AI chatbot I built using LLaMA3 through Ollama.  
+It runs completely on my machine without using any external API or paid service.
 
 ---
 
-## Features
+## What this project does
 
-- Runs locally (no internet needed after first setup)
-- No API key required
-- Conversation memory (chat history)
-- Automatic setup using Python (installs dependencies if missing)
-- Cross-platform support (Linux, macOS, Windows*)
-
-\* Windows requires manual Ollama installation
+- Runs a chatbot locally (no API key needed)
+- Keeps basic conversation memory
+- Automatically sets up the environment (Python + Ollama + model)
+- Works on Linux and macOS (Windows requires manual Ollama install)
 
 ---
 
 ## How it works
 
-This project uses:
+The project uses:
 - **Ollama** to run a local large language model (LLaMA3)
-- A Python script to send and receive messages through a local API
-- A setup script (`run.py`) that prepares everything automatically
+- A Python script to send requests to the model through a local API
+- A setup script (`run.py`) that installs and prepares everything automatically
 
 ---
 
-## Requirements
-
-- Python 3 installed
-- Internet connection (only for first run to download the model)
-
----
-
-## Installation & Run
+## How to run
 
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/local-ai-chatbot.git
-cd local-ai-chatbot
+git clone https://github.com/faresQ7h/miniGPT.git
+cd miniGPT
