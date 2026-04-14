@@ -40,13 +40,10 @@ Handles everything automatically:
 
 ---
 
-## 🚀 Getting Started
-
 ### ✅ Prerequisites
 
 Check Python:
 ```
-# ▶️ Check Python version
 python3 --version
 ```
 If not installed (Ubuntu/Debian):
@@ -63,10 +60,10 @@ cd miniGPT
 
 ---
 
-## ▶️ Run the Project
-
+## ▶️ How to Run
+```
 python3 run.py
-
+```
 This will:
 
 - install dependencies
@@ -78,22 +75,14 @@ This will:
 
 ## 💬 Usage
 
-After running:
-
-You >
-
 Example:
-
+```
 You > Hello  
 AI > Hi! How can I help you?
-
 ---
-
-## ❌ Exit
-
-Type:
-
-exit
+```
+### ❌ Exit
+```exit```
 
 ---
 
