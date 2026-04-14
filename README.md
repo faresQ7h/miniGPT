@@ -79,11 +79,10 @@ Example:
 ```
 You > Hello  
 AI > Hi! How can I help you?
----
+------------------------------
 ```
-### ❌ Exit
-```exit```
 
+'exit' will end the program
 ---
 
 ## ⚠️ Notes
