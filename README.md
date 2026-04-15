@@ -82,7 +82,7 @@ AI > Hi! How can I help you?
 ------------------------------
 ```
 
-'exit' will end the program
+- 'exit' will end the program
 ---
 
 ## ⚠️ Notes
